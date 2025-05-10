@@ -20,7 +20,7 @@ Click the **"Raw"** button above to download the full PDF file.
 ### 📚 Citations
 
 **APA:**  
-Ariunbold, E. (2024, February 17). *IB Extended Essay*. International School of Olonlog Academy.
+Ariunbold, E. (2024, February 17). *IB Extended Essay*. International School of Olonlog Academy. https://github.com/Lumb3/Extended_Research_Paper 
 
 **Chicago:**  
-Ariunbold, E. *IB Extended Essay*. International School of Olonlog Academy, February 17, 2024.
+Ariunbold, E. *IB Extended Essay*. International School of Olonlog Academy, February 17, 2024. https://github.com/Lumb3/Extended_Research_Paper
