@@ -1,4 +1,6 @@
-## Some of the Pictures from the Research Paper
+## 📷 Some of the Pictures from the Research Paper  
+
+Click the **"Raw"** button above to download the full PDF file.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e584acf4-db20-4e37-9e2f-c82086c9c1f3" width="500" alt="Screenshot 1" />
@@ -12,3 +14,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c664ee15-9a29-4d82-b92b-b74497001f72" width="500" alt="Screenshot 4" />
 </p>
+
+---
+
+### 📚 Citations
+
+**APA:**  
+Ariunbold, E. (2024, February 17). *IB Extended Essay*. International School of Olonlog Academy.
+
+**Chicago:**  
+Ariunbold, E. *IB Extended Essay*. International School of Olonlog Academy, February 17, 2024.
