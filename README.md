@@ -20,10 +20,10 @@ Click the **"Raw"** button above to download the full PDF file.
 ### 📚 Citations
 
 **APA:**  
-Ariunbold, E. (2024, February 17). How accurate is the integration of biomarker and machine-learning classification algorithms in detecting Parkinson’s disease through voice? (*IB Extended Essay*. International School of Olonlog Academy). Supervised by A.Tuvshin https://github.com/Lumb3/Extended_Research_Paper 
+Ariunbold, E. (2024, February 17). How accurate is the integration of biomarker and machine-learning classification algorithms in detecting Parkinson’s disease through voice? (*IB Extended Essay*. International School of Olonlog Academy). Github. Supervised by A.Tuvshin https://github.com/Lumb3/Extended_Research_Paper 
 
 **Chicago:**  
-Ariunbold, E. How accurate is the integration of biomarker and machine-learning classification algorithms in detecting Parkinson’s disease through voice? *IB Extended Essay*. International School of Olonlog Academy, February 17, 2024. https://github.com/Lumb3/Extended_Research_Paper
+Ariunbold, E. How accurate is the integration of biomarker and machine-learning classification algorithms in detecting Parkinson’s disease through voice? *IB Extended Essay*. International School of Olonlog Academy, February 17, 2024. Github. https://github.com/Lumb3/Extended_Research_Paper
 
 **MLA:**
 Ariunbold, E. How Accurate Is the Integration of Biomarker and Machine-Learning Classification Algorithms in Detecting Parkinson’s Disease through Voice? IB Extended Essay, International School of Olonlog Academy, 17 Feb. 2024. Supervised by A. Tuvshin. GitHub, https://github.com/Lumb3/Extended_Research_Paper
